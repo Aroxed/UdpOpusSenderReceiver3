@@ -1,0 +1,3 @@
+numpy==1.26.4
+PyAudio==0.2.14
+PyOgg @ git+https://github.com/TeamPyOgg/PyOgg@c78487ef52960d98ab3af5b66a744af8a5efe686
